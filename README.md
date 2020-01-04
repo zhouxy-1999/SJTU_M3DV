@@ -16,7 +16,7 @@
 
 emersion.py:用来复现出最好结果的程序
 	
-test.py:主程序，生成loss图像
+test.py:主程序，生成Submission文件，并展示loss图像
 	
 read_data.py: 读取数据程序
 	
